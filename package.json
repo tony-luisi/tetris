@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/tony-luisi/tetris/issues"
   },
-  "homepage": "https://github.com/tony-luisi/tetris#readme"
+  "homepage": "https://github.com/tony-luisi/tetris#readme",
+  "dependencies": {
+    "phaser": "^3.11.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "webpack": "^3.12.0"
+  }
 }
